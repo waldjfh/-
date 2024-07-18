@@ -1,9 +1,14 @@
-#include<stdio.h>
-#include<windows.h>
-int main()
-{
-	MessageBox(0,"Hello Word!Welcome to School of CyberSecurity,GPNU!\nThis is a Great Place for Studying Ctbersecurity.","                   广东技术师范大学 网络空间安全学院",0);
-	getchar();
-	return 0;
-	
+//场地
+const location = "赛博坦A区";
+
+//汽车人
+function createAutobot(){
+  const autobot = "汽车人-1代";
+  return autobot;
+}
+
+//霸天虎
+function createTigerhawk(){
+  const tigerhawk = "霸天虎-1代";
+  return tigerhawk;
 }
