@@ -10,5 +10,6 @@ function createAutobot(){
 //霸天虎
 function createTigerhawk(){
   const tigerhawk = "霸天虎-1代";
+  const tigerhaw1 = "霸天虎-2代";
   return tigerhawk;
 }
